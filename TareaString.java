@@ -5,6 +5,7 @@ public class TareaString {
         String profesion;
         String nacionalidad;
         String nombre;
+        
         Scanner entrada = new Scanner(System.in);
         System.out.println("Dime tu nombre");
         nombre=entrada.nextLine();
